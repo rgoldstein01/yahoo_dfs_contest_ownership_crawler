@@ -1,6 +1,6 @@
 # yahoo_dfs_contest_ownership_crawler
 
-Dependancies: 
+Dependencies: 
 Selenium
 webdriver (ChromeDriverManager)
 
